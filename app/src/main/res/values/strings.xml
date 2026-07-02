@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mis Finanzas</string>
+    <string name="titulo_principal">Mis Finanzas</string>
+    <string name="titulo_nueva">Nueva transacción</string>
+    <string name="titulo_editar">Editar transacción</string>
+    <string name="resumen_financiero">Balance disponible</string>
+    <string name="total_ingresos">Ingresos</string>
+    <string name="total_gastos">Gastos</string>
+    <string name="historial_transacciones">Historial de transacciones</string>
+    <string name="lista_vacia">No hay transacciones registradas.\nPulsa + para agregar una.</string>
+    <string name="agregar_transaccion">Agregar transacción</string>
+    <string name="hint_concepto">Concepto (ej. Almuerzo, Pago de internet)</string>
+    <string name="hint_monto">Monto</string>
+    <string name="label_tipo">Tipo de transacción</string>
+    <string name="tipo_gasto">Gasto</string>
+    <string name="tipo_ingreso">Ingreso</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar_titulo">Eliminar transacción</string>
+    <string name="eliminar_mensaje">¿Deseas eliminar \"%1$s\"?</string>
+    <string name="mensaje_guardado">Transacción guardada</string>
+    <string name="mensaje_actualizado">Transacción actualizada</string>
+    <string name="mensaje_eliminado">Transacción eliminada</string>
+    <string name="error_concepto_vacio">Ingresa un concepto</string>
+    <string name="error_monto_vacio">Ingresa un monto</string>
+    <string name="error_monto_invalido">Ingresa un monto válido mayor a 0</string>
+    <string name="error_transaccion_no_encontrada">Transacción no encontrada</string>
+</resources>
